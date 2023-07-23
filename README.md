@@ -1,4 +1,4 @@
-# phpkadai10
+# phpkadai05
 # 課題　 -PHP5-
 
 ## ①課題内容（どんな作品か）
